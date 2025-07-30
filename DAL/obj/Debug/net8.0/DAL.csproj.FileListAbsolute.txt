@@ -1,0 +1,274 @@
+C:\Users\USER\source\repos\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\source\repos\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\source\repos\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\source\repos\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+H:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+L:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+L:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+L:\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+L:\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\פרוייקט1 Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\פרוייקט1 Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט1 Cֳ# מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+H:\פרוייקט1 Cֳ# מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+H:\פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+L:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+L:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+L:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+L:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+H:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+H:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+Z:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.deps.json
+Z:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.dll
+Z:\1233פרוייקט מעודכן\DAL\bin\Debug\net8.0\DAL.pdb
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.dll
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\refint\DAL.dll
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\DAL.pdb
+Z:\1233פרוייקט מעודכן\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Desktop\4567\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Desktop\4567\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\4567\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\4567\DAL\obj\Debug\net8.0\ref\DAL.dll
+F:\4567\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\4567\DAL\bin\Debug\net8.0\DAL.dll
+F:\4567\DAL\bin\Debug\net8.0\DAL.pdb
+F:\4567\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\4567\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\4567\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\4567\DAL\obj\Debug\net8.0\DAL.dll
+F:\4567\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\4567\DAL\obj\Debug\net8.0\DAL.pdb
+F:\4567\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\4567\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\4567\DAL\bin\Debug\net8.0\DAL.dll
+H:\4567\DAL\bin\Debug\net8.0\DAL.pdb
+H:\4567\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\4567\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\4567\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\4567\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\4567\DAL\obj\Debug\net8.0\DAL.dll
+H:\4567\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\4567\DAL\obj\Debug\net8.0\DAL.pdb
+H:\4567\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\גרסאות פרויקט C\אאאא\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\גרסאות פרויקט C\אאאא\DAL\bin\Debug\net8.0\DAL.dll
+H:\גרסאות פרויקט C\אאאא\DAL\bin\Debug\net8.0\DAL.pdb
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.dll
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\DAL.pdb
+H:\גרסאות פרויקט C\אאאא\DAL\obj\Debug\net8.0\ref\DAL.dll
+L:\sssssss\DAL\bin\Debug\net8.0\DAL.deps.json
+L:\sssssss\DAL\bin\Debug\net8.0\DAL.dll
+L:\sssssss\DAL\bin\Debug\net8.0\DAL.pdb
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.dll
+L:\sssssss\DAL\obj\Debug\net8.0\refint\DAL.dll
+L:\sssssss\DAL\obj\Debug\net8.0\DAL.pdb
+L:\sssssss\DAL\obj\Debug\net8.0\ref\DAL.dll
+F:\sssssss\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\sssssss\DAL\bin\Debug\net8.0\DAL.dll
+F:\sssssss\DAL\bin\Debug\net8.0\DAL.pdb
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.dll
+F:\sssssss\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\sssssss\DAL\obj\Debug\net8.0\DAL.pdb
+F:\sssssss\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Documents\sssssss\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Documents\sssssss\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\sssssss\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\sssssss\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Desktop\sssssss\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Desktop\sssssss\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\sssssss\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\sssssss\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\DAL\obj\Debug\net8.0\ref\DAL.dll

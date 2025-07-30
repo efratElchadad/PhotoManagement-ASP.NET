@@ -1,0 +1,196 @@
+﻿/* עיצוב רקע של הדף */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* צבע רקע בהיר */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* קונטיינר עם תמונה וגבול מהבהב */
+.home-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* גובה של התמונה */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+    animation: flashing-border 3s infinite alternate;
+}
+
+/* אנימציה שמבצע גבול מהבהב בצבעים מתחלפים */
+@/*keyframes flashing-border {
+    0% {
+        border: 5px solid #ffff00;*/ /* צהוב בהיר */
+    /*}
+
+    25% {
+        border: 5px solid #32cd32;*/ /* ירוק בהיר */
+    /*}
+
+    50% {
+        border: 5px solid #20b2aa;*/ /* תכלת */
+    /*}
+
+    75% {
+        border: 5px solid #d3d3d3;*/ /* אפור בהיר */
+    /*}
+
+    100% {
+        border: 5px solid #ffff00;*/ /* צהוב בהיר */
+    /*}
+}*/
+
+h2 {
+    font-size: 28px;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* כפתור שליחת הטופס */
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #20b2aa; /* תכלת */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    .submit-btn:hover {
+        background-color: #32cd32; /* ירוק בהיר */
+    }
+
+
+/* עיצוב הטבלה */
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .orders-table th, .orders-table td {
+        padding: 12px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+
+    .orders-table th {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .orders-table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .orders-table tr:hover {
+        background-color: #ddd;
+    }
+
+/* עיצוב הכפתורים */
+.btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+/* עיצוב שדה הקלט */
+form label {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+form input {
+    padding: 8px;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+    form button:hover {
+        background-color: #45a049;
+    }
+
+
+.container-body {
+    background-color: #f4ede4; /* צבע רקע עדין */
+    direction: rtl;
+    text-align: right;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+
+    .image-container img {
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        transition: border 0.3s ease-in-out;
+    }
+
+        .image-container img:nth-child(1) {
+            width: 40%;
+        }
+
+        .image-container img:nth-child(2) {
+            width: 60%;
+        }
+
+        .image-container img:nth-child(3) {
+            width: 100%;
+        }
+
+.btn:hover + .image-container img:nth-child(1),
+.btn:nth-of-type(1):hover ~ .image-container img:nth-child(1) {
+    border: 3px solid #40a8c4;
+}
+
+.btn:hover + .image-container img:nth-child(2),
+.btn:nth-of-type(2):hover ~ .image-container img:nth-child(2) {
+    border: 3px solid #6ab04c;
+}
+
+.btn:hover + .image-container img:nth-child(3),
+.btn:nth-of-type(3):hover ~ .image-container img:nth-child(3) {
+    border: 3px solid #d35400;
+}

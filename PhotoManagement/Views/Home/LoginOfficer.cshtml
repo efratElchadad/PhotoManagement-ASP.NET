@@ -1,0 +1,133 @@
+﻿@{
+    ViewData["Title"] = "פתח הזמנה חדשה";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@section Scripts {
+    <script>
+        function enterWithCode1() {
+            var officerCode = document.getElementById("officerCode").value;
+            $.post("/Orders/GetJSONOfOrders", { officerCode: officerCode }, function (orders) {
+                $("#allOrders").empty();
+                if (orders.length === 0) {
+                    $("#allOrders").append("<p>אין הזמנות הממתינות לביצוע עבורך</p>");
+                    return;
+                }
+
+                var table = '<table class="orders-table">';
+                table += '<thead><tr><th>Order Code</th><th>Officer Code</th><th>Actions</th></tr></thead>';
+                table += '<tbody>';
+                orders.forEach(function (o1) {
+                    table += `<tr>
+                                        <td>${o1.orderCode}</td>
+                                        <td>${o1.officerCode}</td>
+                                        <td><button type="button" class="btn btn-primary" onclick='ChangeStatus("${o1.orderCode}", "${o1.officerCode}" )'>Change Status</button></td>
+                                    </tr>`;
+                });
+                table += '</tbody></table>';
+
+                $("#allOrders").append(table);
+            }).fail(function () {
+                alert("didnt success view orders");
+            });
+        }
+            function ChangeStatus(orderCode, officerCode) {
+            console.log("in ChangeStatus function");
+            $.ajax({
+                url: '@Url.Action("ChangeStatus", "Orders")',
+                type: 'POST',
+                data:  {orderCode: orderCode},
+                success: function (response) {
+                    enterWithCode1(officerCode);
+                },
+                error: function (xhr, status, error) {
+                    console.log("Error occurred: " + error);
+                }
+            });
+        }
+
+    </script>
+}
+<form>
+    <label>officer code: <input id="officerCode" /></label>
+    <button type="button" onclick="enterWithCode1()">enter</button>
+</form>
+
+<div id="allOrders"></div>
+
+
+
+
+
+<style>
+    .orders-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+        .orders-table th, .orders-table td {
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        .orders-table th {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .orders-table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .orders-table tr:hover {
+            background-color: #ddd;
+        }
+
+    /* עיצוב הכפתורים */
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        cursor: pointer;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .btn-primary {
+        background-color: #20b2aa;
+        ;
+        color: white;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    /* עיצוב שדה הקלט */
+    form label {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    form input {
+        padding: 8px;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    form button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+        form button:hover {
+            background-color: #45a049;
+        }
+
+</style>

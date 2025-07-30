@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Customer Login";
+}
+
+<h2>כניסת לקוחות</h2>
+
+<form asp-action="SetNewCustomer" asp-controller="Customers" method="post">
+    <input type="hidden" name="customerCode" />
+    <div class="form-group">
+        <label>שם: <input id="name" name="name" required /></label>
+    </div>
+    <div class="form-group">
+        <label>טלפון: <input id="phone" name="phone" required /></label>
+    </div>
+    <div class="form-group">
+        <label>מייל: <input id="email" type="email" name="email" required /></label>
+    </div>
+    <button type="submit" class="submit-btn">שלח</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f8ff; /* חוף בהיר */
+        margin: 0;
+        padding: 0;
+    }
+
+    h2 {
+        text-align: center;
+        color: #006400; /* ירוק כהה */
+    }
+
+    form {
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    label {
+        display: block;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 12px;
+        background-color: #20b2aa; /* תכלת ירקרק */
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+        .submit-btn:hover {
+            background-color: #32cd32; /* ירוק בהיר */
+        }
+</style>

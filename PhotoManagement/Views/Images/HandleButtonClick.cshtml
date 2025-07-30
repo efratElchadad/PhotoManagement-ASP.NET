@@ -1,0 +1,81 @@
+﻿
+
+@{
+    ViewBag.Title = "Button Click Example";
+}
+<div class="container-body">
+    <h2>בחר גודל תמונה להדפסה :</h2>
+    <form asp-action="SendButtonClick" asp-controller="Images" method="post">
+        <button type="submit" name="buttonValue" value="15*18" class="btn btn-primary" style="background-color: #40a8c4;">15 * 18</button>
+        <button type="submit" name="buttonValue" value="23*31" class="btn btn-success" style="background-color: #6ab04c;">23 * 31</button>
+        <button type="submit" name="buttonValue" value="45*60" class="btn btn-danger" style="background-color: #d35400;">45 * 60</button>
+    </form>
+
+    <div class="image-container">
+        <img src="/תמונת+נוף+-+שוויץ.jpg" alt="תמונה 1">
+        <img src="/תמונת+נוף+-+שוויץ.jpg" alt="תמונה 2">
+        <img src="/תמונת+נוף+-+שוויץ.jpg" alt="תמונה 3">
+    </div>
+</div>
+
+
+
+
+
+<style>
+    body {
+        background-color: #f4ede4; /* צבע רקע עדין */
+        direction: rtl;
+        text-align: right;
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .btn {
+        margin: 5px;
+    }
+
+    .image-container {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        align-items: center;
+    }
+
+        .image-container img {
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            transition: border 0.3s ease-in-out;
+            padding: 20px;
+        }
+
+            .image-container img:nth-child(1) {
+                width: 20%;
+                height:10%
+            }
+
+            .image-container img:nth-child(2) {
+                width: 40%;
+                height:23%
+            }
+
+            .image-container img:nth-child(3) {
+                width: 60%;
+                height:37%;
+            }
+
+    .btn:hover + .image-container img:nth-child(1),
+    .btn:nth-of-type(1):hover ~ .image-container img:nth-child(1) {
+        border: 5px solid #40a8c4;
+    }
+
+    .btn:hover + .image-container img:nth-child(2),
+    .btn:nth-of-type(2):hover ~ .image-container img:nth-child(2) {
+        border: 3px solid #6ab04c;
+    }
+</style>
+

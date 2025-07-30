@@ -1,0 +1,340 @@
+C:\Users\USER\source\repos\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\source\repos\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\source\repos\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\source\repos\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\source\repos\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+H:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+H:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+H:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+H:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+L:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+L:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+L:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+L:\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+L:\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Documents\פרוייקט Cֳ# מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\פרוייקט1 Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\פרוייקט1 Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+H:\פרוייקט1 Cֳ# מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+H:\פרוייקט1 Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט1 Cֳ# מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+H:\פרוייקט1 Cֳ# מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+H:\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+H:\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+H:\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+H:\פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+H:\c#\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+L:\תקיות הפרויקט(כפולות)\פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Desktop\פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+L:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+L:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+L:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+L:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+H:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+H:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+H:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+H:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+Z:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.deps.json
+Z:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.dll
+Z:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\BLL.pdb
+Z:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.dll
+Z:\1233פרוייקט מעודכן\BLL\bin\Debug\net8.0\DAL.pdb
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.dll
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\refint\BLL.dll
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.pdb
+Z:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\1233פרוייקט מעודכן\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Desktop\4567\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Desktop\4567\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\4567\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\4567\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\4567\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\4567\BLL\obj\Debug\net8.0\ref\BLL.dll
+F:\4567\BLL\bin\Debug\net8.0\BLL.deps.json
+F:\4567\BLL\bin\Debug\net8.0\BLL.dll
+F:\4567\BLL\bin\Debug\net8.0\BLL.pdb
+F:\4567\BLL\bin\Debug\net8.0\DAL.dll
+F:\4567\BLL\bin\Debug\net8.0\DAL.pdb
+F:\4567\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+F:\4567\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+F:\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+F:\4567\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+F:\4567\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+F:\4567\BLL\obj\Debug\net8.0\BLL.dll
+F:\4567\BLL\obj\Debug\net8.0\refint\BLL.dll
+F:\4567\BLL\obj\Debug\net8.0\BLL.pdb
+F:\4567\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\4567\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\4567\BLL\bin\Debug\net8.0\BLL.dll
+H:\4567\BLL\bin\Debug\net8.0\BLL.pdb
+H:\4567\BLL\bin\Debug\net8.0\DAL.dll
+H:\4567\BLL\bin\Debug\net8.0\DAL.pdb
+H:\4567\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\4567\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\4567\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\4567\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\4567\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\4567\BLL\obj\Debug\net8.0\BLL.dll
+H:\4567\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\4567\BLL\obj\Debug\net8.0\BLL.pdb
+H:\4567\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.dll
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.pdb
+H:\גרסאות פרויקט C\אאאא\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\גרסאות פרויקט C\אאאא\BLL\bin\Debug\net8.0\BLL.dll
+H:\גרסאות פרויקט C\אאאא\BLL\bin\Debug\net8.0\BLL.pdb
+H:\גרסאות פרויקט C\אאאא\BLL\bin\Debug\net8.0\DAL.dll
+H:\גרסאות פרויקט C\אאאא\BLL\bin\Debug\net8.0\DAL.pdb
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+H:\גרסאות פרויקט C\אאאא\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\sssssss\BLL\bin\Debug\net8.0\BLL.deps.json
+L:\sssssss\BLL\bin\Debug\net8.0\BLL.dll
+L:\sssssss\BLL\bin\Debug\net8.0\BLL.pdb
+L:\sssssss\BLL\bin\Debug\net8.0\DAL.dll
+L:\sssssss\BLL\bin\Debug\net8.0\DAL.pdb
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.dll
+L:\sssssss\BLL\obj\Debug\net8.0\refint\BLL.dll
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.pdb
+L:\sssssss\BLL\obj\Debug\net8.0\ref\BLL.dll
+L:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+F:\sssssss\BLL\bin\Debug\net8.0\BLL.deps.json
+F:\sssssss\BLL\bin\Debug\net8.0\BLL.dll
+F:\sssssss\BLL\bin\Debug\net8.0\BLL.pdb
+F:\sssssss\BLL\bin\Debug\net8.0\DAL.dll
+F:\sssssss\BLL\bin\Debug\net8.0\DAL.pdb
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.dll
+F:\sssssss\BLL\obj\Debug\net8.0\refint\BLL.dll
+F:\sssssss\BLL\obj\Debug\net8.0\BLL.pdb
+F:\sssssss\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Documents\sssssss\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Documents\sssssss\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Documents\sssssss\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Documents\sssssss\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Documents\sssssss\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Documents\sssssss\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\sssssss\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Desktop\sssssss\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\sssssss\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\sssssss\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\sssssss\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Desktop\sssssss\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Desktop\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\USER\Downloads\פרוייקט C# מעודכן להגשה\פרויקט להגשה עם SESSION STORAGE\BLL\obj\Debug\net8.0\ref\BLL.dll

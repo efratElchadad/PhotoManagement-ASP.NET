@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Button Click Example";
+    var customerId = Model;
+}
+
+<h2>Select an Option</h2>
+
+<form asp-action="SendButtonClick" asp-controller="Images" method="post">
+    <input type="hidden" name="id" value="@Model" />
+    <div class="button-container">
+        <button type="submit" name="buttonValue" value="Button1" class="btn btn-primary">Button 1</button>
+        <button type="submit" name="buttonValue" value="Button2" class="btn btn-success">Button 2</button>
+        <button type="submit" name="buttonValue" value="Button3" class="btn btn-danger">Button 3</button>
+    </div>
+</form>
+

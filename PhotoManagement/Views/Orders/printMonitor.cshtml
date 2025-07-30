@@ -1,0 +1,22 @@
+﻿@model Newtonsoft.Json.Linq.JObject
+
+@{
+    ViewData["Title"] = "פרטי הזמנה";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h1>Order Details</h1>
+
+@if (Model != null)
+{
+    <ul>
+        @foreach (var property in Model.Properties())
+        {
+            <li><strong>@property.Name:</strong> @property.Value</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No order details available.</p>
+}
